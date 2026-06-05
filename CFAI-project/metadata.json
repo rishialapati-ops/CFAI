@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Bed Allocation & Inventory System",
+  "description": "A comprehensive real-time hospital bed allocation panel with blood inventory management, medical staff dashboards, and automated client-side patient discharge alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
